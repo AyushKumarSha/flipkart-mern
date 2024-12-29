@@ -1,7 +1,7 @@
-# Flipkart-MERN
+# Flipkart - MERN
 Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
-[Visit Now](https://flipkartwebs.herokuapp.com/) 🚀
+[Visit Now](https://flipkartweb-mern.vercel.app) 🚀
 
 ## 🖥️ Tech Stack
 **Frontend:**
@@ -24,34 +24,53 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 ![paytm](https://img.shields.io/badge/Paytm-002970?style=for-the-badge&logo=paytm&logoColor=00BAF2)
 
-**Deployed On:**
+**Cloud Storage:** [Cloudinary](https://cloudinary.com/)
 
-![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-
-**Image Management:** [Cloudinary](https://cloudinary.com/)
 **Mail Service:** [Sendgrid](https://sendgrid.com/)
 
 ## 🚀 Features
-- Login/Signup User Account
-- Update Profile/Password User Account
-- Reset Password Mail using Sendgrid
-- Cart Add/Remove Items | Update Quantities
-- Save For Later Add/Remove Items
-- Wishlist Add/Remove Items
-- Products Pagination (Default 12 Products Per Page)
-- Product Search
-- Product Filters Based on Category/Ratings | Price Range
-- Shipping Info in Session Storage
-- My Orders (With All Filters)
-- Order Details of All Ordered Item
-- Users will receive mail when order placed with all details
-- Review Products User Account
-- Admin: Dashboard access to only admin roles
-- Admin: Update Order Status | Delete Order
-- Admin: Add/Update Products
-- Admin: Update User Data | Delete User
-- Admin: List Review of Product | Delete Review
-- Stock Management: Decrease stock of product when shipped
+
+**User Account Management**
+- Login/Signup: 🚪 Users can create an account or log in to an existing one.
+- Update Profile/Password: 🔐 Users can update their profile information and change their passwords.
+  
+**Password Management**
+- Reset Password Mail: 📧 Utilizing Sendgrid, users can reset their passwords via email.
+  
+**Shopping Cart**
+- Add/Remove Items: 🛒 Users can add items to their shopping cart or remove them as needed.
+- Update Quantities: 🔢 Quantities of items in the cart can be adjusted.
+  
+**Saved Items**
+- Save For Later: 💾 Users can move items from the cart to a "Saved For Later" list or remove them from it.
+  
+**Wishlist**
+- Add/Remove Items: ❤️ Users can add items to their wishlist or remove them from it.
+  
+**Product Browsing**
+- Pagination: 📚 Products are paginated, with 12 products displayed per page by default.
+- Search: 🔍 Users can search for products.
+- Filters: 🎛️ Products can be filtered based on categories, ratings, and price range.
+  
+**Checkout Process**
+- Shipping Info: 🚚 Shipping information is stored in session storage for ease of checkout.
+- Payment Options: 💳 Users can pay through Paytm payment gateway for checkout.
+  
+**Order Management**
+- My Orders: 📦 Users can view their order history with various filters.
+- Order Details: ℹ️ Details of all ordered items are accessible.
+- Order Confirmation: ✉️ Users receive email notifications with comprehensive order details upon placing an order.
+  
+**Product Interaction**
+- Review Products: 🌟 Users can review products.
+  
+**Admin Features**
+- Dashboard: 🖥️ Admins have access to a dedicated dashboard.
+- Order Management: 📊 Admins can update order statuses and delete orders.
+- Product Management: 📝 Admins can add/update products.
+- User Management: 👥 Admins can update user data and delete users.
+- Review Management: 📜 Admins can view and delete product reviews.
+- Stock Management: 📉 Product stock is automatically decreased upon shipment.
 
 ## Sneak Peek of Admin Dashboard 🙈 :
 ![Capture](https://user-images.githubusercontent.com/64949957/153995268-0cb769b9-e0ee-48ea-83c1-09b881df4101.PNG)
@@ -69,11 +88,7 @@ Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
 <h2>📬 Contact</h2>
 
-If you want to contact me, you can reach me through below handles.
+Feel free to reach me through the below handles if you'd like to contact me.
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sable)
-
-© 2022 Jigar Sable
-
-
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigar-sablee)
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jigarsable.dev)
